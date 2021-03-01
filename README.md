@@ -12,7 +12,7 @@ Sigmoid and its derivative are applied to elements of the matrix.  The derivativ
 
 ## Neural Network
 
-The NeuralNetwork class contains contains weights and bias matrix variable for different layers as well as the learning rate. IT contains all neccessary
-functions for the Forward Pass in order to generate a prediction. The necessary error for backpropigation occurs inside the train function.  The train function is
-iterated over according to the # of epochs in the fit function with random datapoints from the dataset.
+The NeuralNetwork class contains contains weights and bias matrix variable for different layers as well as the learning rate. It contains all neccessary
+functions for the Forward Pass in order to generate a prediction. The necessary error for backpropagation occurs inside the train function.  The train function is
+iterated over according to the number of epochs in the fit function with random datapoints from the dataset.
 
