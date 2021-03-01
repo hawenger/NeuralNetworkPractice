@@ -1,7 +1,6 @@
 # NeuralNetworkPractice
 
-#### Command line Java application building Neural Network & Matrix Library from scratch.
-Input is XOR dataset containing 4 samples and tested on 5000 epochs.
+#### Command line Java application building Neural Network & Matrix Library from scratch. Input is XOR dataset containing 4 samples and tested on 5000 epochs.
 
 ![Image of Neural Network Results](https://user-images.githubusercontent.com/63066634/109548155-241a3800-7a81-11eb-8b2e-41c49a2cc26e.PNG)
 
